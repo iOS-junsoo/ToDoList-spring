@@ -32,8 +32,13 @@
 - **DELETE /todo/{id}/delete**: 특정 할 일을 삭제합니다.
   - 응답: 삭제 성공 메시지
 
-## 작동 화면(GIF) 📱
+## 화면 구성 📱
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8a174cf7-0fed-4bf2-acd8-8edcd9848e2f" width="300" height="auto" alt="TodoList GIF">
+  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fboyduu%2FbtsJi4Monrm%2FOtY2vitoORSvahX0dly5Gk%2Fimg.png" width="100" height="auto" alt="Image 1" style="display:inline-block; margin:5px;">
+  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FckaC1Y%2FbtsJjysyRzF%2FmrkZmkjrLZJ2QSCjssREUK%2Fimg.png" width="100" height="auto" alt="Image 2" style="display:inline-block; margin:5px;">
+  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcd1Geh%2FbtsJi6ceLpP%2FdgdDog3NKZ2SUMyDEIVj61%2Fimg.png
+" width="100" height="auto" alt="Image 3" style="display:inline-block; margin:5px;">
+  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fm3TCL%2FbtsJjj3DdaP%2FkGJB9rAn7zYkYEQjiAGksk%2Fimg.png" width="100" height="auto" alt="Image 4" style="display:inline-block; margin:5px;">
 </p>
+
